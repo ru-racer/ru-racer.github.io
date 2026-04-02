@@ -16,8 +16,8 @@ lead:
     alt: "Doctor Aliasghar Arab"
     title: "Dr. Aliasghar Arab"
     excerpt: "Department of Mechanical and Aerospace Engineering & Bell Labs"
-    url: "https://www.linkedin.com/in/aliasghar-arab"
-    btn_label: "LinkedIn"
+    url: "https://www.ccny.cuny.edu/profiles/aliasghar-arab"
+    btn_label: "Academic Profile"
 
 research:
   - image_path: /assets/images/people/jiaxing.jpg
